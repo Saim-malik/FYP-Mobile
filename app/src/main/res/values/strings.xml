@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MERN Marketplace</string>
+    <string name="welcome">MERN Marketplace</string>
+    <string name="for_android">for android</string>
+    <string name="l_o_g_i_n">L O G I N</string>
+    <string name="switch_to_seller">SWITCH TO SELLER</string>
+    <string name="password">PASSWORD</string>
+    <string name="username">USERNAME</string>
+    <string-array name="filter_array">
+        <item>Default</item>
+        <item>By Name</item>
+        <item>Price:Low to High</item>
+        <item>Price:High to Low</item>
+        <item>By Category</item>
+
+    </string-array>
+</resources>
